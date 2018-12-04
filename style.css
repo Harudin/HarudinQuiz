@@ -1,0 +1,35 @@
+<style type="text/css">
+div.relatife {
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: 3px solid #543535;
+} 
+        #calculator {
+            background-color: #blue;
+            padding: 30px;
+            margin: 0px auto;
+            width: 350px;
+            height: auto;
+            border: 2px dashed red;
+        }
+        input.hasil {
+            font-family: verdana;
+            font-size: 24px;
+            color: blue;
+            width: 200px;
+            height: 100px;
+            text-align: center;
+        }
+        input.bil {
+            width: 100px;
+            font-family: verdana;
+            font-size: 14px;
+            color: blue;
+        }
+        input.tombol {
+            font-family: verdana;    
+            font-size: 30px;
+            padding: 30px;
+        }
+</style>
